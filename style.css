@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+.container {
+    max-width: 960px;
+    margin: auto;
+    text-align: center;
+    margin-top: 200px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 70px;
+}
+
+h2 {
+    font-weight: 600;
+}
